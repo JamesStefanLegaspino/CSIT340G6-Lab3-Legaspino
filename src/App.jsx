@@ -22,7 +22,7 @@ const App = () => {
   const exercises1 = 3
   const part2 = 'Industry Elective 3'
   const exercises2 = 3
-  const part3 = 'Information Assurance and Security 2'
+  const part3 = 'Technical Writing'
   const exercises3 = 3  
 
   return (
